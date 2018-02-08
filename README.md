@@ -51,7 +51,7 @@ Title: EL - No Permission Spam
 
 ### Related Files
 
-Screenshot: https://gyazo.com/827a13f093eed12e7e8db6ce749cb504
+Screenshot: https://gyazo.com/827a13f093eed12e7e8db6ce749cb504  
 Log: http://gist.github.com/randomnumberlink
 
 ### Extra info
