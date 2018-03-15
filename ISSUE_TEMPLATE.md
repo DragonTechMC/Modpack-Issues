@@ -4,7 +4,7 @@
 
 ### Related Files
 
-[Crash reports, logs, screenshots]
+[Crash reports, logs, screenshots - Please use gist.github.com or pastebin.com to post reports and logs]
 
 ### Extra info
 
