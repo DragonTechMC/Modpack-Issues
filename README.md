@@ -57,7 +57,7 @@ Title: EL - No Permission Spam
 
 Modpack: Everlands
 
-Modpack Type: Curse
+Modpack Type: Technic
 
 "No permission to build here" is constantly spamming my screen from a person's claim I'm not even in. No obvious cause.
 
