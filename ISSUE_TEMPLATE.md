@@ -1,4 +1,4 @@
-Modpack: [Everlands/ Dragon Industries/ Arcana Technologies]  
+Modpack: [Farmitect/ Dragon Industries/ Arcana Technologies]  
 
 Modpack Type: [Technic/ Curse (Twitch) - For Curse please include version]
 
