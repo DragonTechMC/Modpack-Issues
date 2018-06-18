@@ -4,7 +4,7 @@ Issues for all DragonTechMC custom Modpacks
 Template:
 
 ```
-Modpack: [Everlands/ Dragon Industries/ Arcana Technologies]  
+Modpack: [Farmitect/ Dragon Industries/ Arcana Technologies]  
 
 Modpack Type: [Technic/ Curse (Twitch) - For Curse please include version]
 
@@ -29,7 +29,7 @@ Extra info:
 Code:
 
 ```
-Modpack: Everlands
+Modpack: Farmitect
 
 Modpack Type: Curse
 
